@@ -1,5 +1,5 @@
 # irc-graph
-Silly little program that converts intrinsic reaction coordinate (IRC) data (simulated only) into a minimum energy path (MEP) plot showing the difference in electronic energy vs the intrinsic reaction coordinate. The energetic profile depicted in the graph represents the electronic energy in kcal /mol-1 obtained from IRC calculations
+Silly little program that converts intrinsic reaction coordinate (IRC) data (simulated only) into a minimum energy path (MEP) plot showing the difference in electronic energy vs the intrinsic reaction coordinate. The energetic profile depicted in the graph represents the electronic energy in kcal/mol obtained from IRC calculations.
 
 ### Required files (all in the same directory)
 - Python file [irc.py](irc.py) (or jupyter notebook file [irc.ipynb](irc.ipynb))
