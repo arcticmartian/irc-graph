@@ -17,5 +17,5 @@ Silly little program that converts intrinsic reaction coordinate (IRC) data (sim
 - linux: `python3 irc.py`
 - windows terminal (PowerShell): `python3 .\irc.py`
 
-## Modeled minimum energy paths (MEP) plot 
+### Modeled minimum energy paths (MEP) plot 
 ![Modeled minimum energy paths (MEP) plot](irc.svg)
